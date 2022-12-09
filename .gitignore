@@ -1,0 +1,5 @@
+# Project exclude paths
+/Day_1/node_modules/
+/Day_2/node_modules/
+/Day_3/node_modules/
+/node_modules/
